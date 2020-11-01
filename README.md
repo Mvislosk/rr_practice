@@ -1,10 +1,11 @@
 # rr_practice
-A *repository* to test out my efforts and to make my research more reproducible 
+A *repository* to test out **my efforts** and to make my research more reproducible 
 ## Introduction
-Texting
+***Texting***
 ## Results
-
-
+* Describe the site that I obtained samples from
+* Differences in richness between types of sites
+* Difference in beta-diversity between types of sites
 ## Discussions
 
 ## Methods
